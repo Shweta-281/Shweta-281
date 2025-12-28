@@ -14,10 +14,36 @@
 - 📫 How to reach me **shwetasalunkhe281@gmail.com**
 
 <h3 align="left">GitHub Stats:</h3>
-
+<table>
+<tr>
+  <td align="center">
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta-281&theme=tokyo-night" />
+  <a href="https://github.com/Shweta-281">
+    <img align="center" height="200px" width="600"src="https://github-readme-stats-eight-pi-79.vercel.app/api?username=Shweta-281&count_private=true&show_icons=true&show_icons=true&locale=en&theme=radical"/>
+  </a>
+  </td>
+  <td align="center">
+  <a href="https://github.com/Shweta-281">
+    <img align="center" height="200px" width="600" src="https://github-readme-stats-eight-pi-79.vercel.app/api/top-langs?username=Shweta-281&show_icons=true&locale=en&layout=compact&theme=radical" />
+    
+  </a>
+  </td>
 </p>
+
+</details>
+</table>
+<table align = "center">
+<tr>
+<td align = "center">
+<a href="https://github.com/Shweta-281">
+<div align = "center">
+  <img src = "https://github-readme-streak-stats-new-one.vercel.app/?user=Shweta-281&theme=radical">
+</div>
+</a>
+</tr>
+</td>
+</table>
+
 
 <h2 align="left">Language and Tool</h2>
 

@@ -9,8 +9,6 @@
 
 - 💻 All of my projects are available on [Github](https://github.com/Shweta-281)
 
-- 📑 Check out my resume here [My Resume](https://1drv.ms/b/s!Altskdtnt3motLlC5nlRJlL9xOsrSA?e=2Pv6XX)
-
 - 💬 Ask me about **Flutter Developer, Full Stack Developer**
 
 - 📫 How to reach me **shwetasalunkhe281@gmail.com**

@@ -15,7 +15,12 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shweta-281&show_icons=true&locale=en" alt="Shweta-281" /></p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Shweta-281&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
 
 <h2 align="left">Language and Tool</h2>
 

@@ -16,10 +16,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Shweta-281&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Shweta-281 GitHub stats"
-  />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta-281&theme=tokyo-night" />
 </p>
 
 <h2 align="left">Language and Tool</h2>

@@ -3,13 +3,13 @@
 
 <h2 align="left">About me</h2>
 
-- 🔭 I’m currently working on **Open-Source Projects**
+- 🔭 I’m currently working on **Backend Development** using Spring and Spring Boot
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning about integrating **LLM Models with Spring AI**.
 
 - 💻 All of my projects are available on [Github](https://github.com/Shweta-281)
 
-- 💬 Ask me about **Flutter Developer, Full Stack Developer**
+- 💬 Ask me about **Flutter Developer, Full Stack Developer, Backend Developer**
 
 - 📫 How to reach me **shwetasalunkhe281@gmail.com**
 
